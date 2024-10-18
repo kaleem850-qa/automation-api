@@ -1,0 +1,9 @@
+{
+  "title": "Mr",
+  "firstName": "J",
+  "lastName": "Doe",
+  "dateOfBirth": "1987-06-04",
+  "email": "john.doe@email.com",
+  "password": "validPassword123",
+  "rating": 8
+}
